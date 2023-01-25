@@ -1,2 +1,2 @@
 # LM75B
-thermomètre I2C 
+I2C Thermometer
